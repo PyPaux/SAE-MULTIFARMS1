@@ -1,0 +1,6 @@
+
+                                
+            Commandes :            
+        z - haut       s - bas       
+        q - gauche     d - droite      
+                                   

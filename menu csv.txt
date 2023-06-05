@@ -1,0 +1,8 @@
+Bienvenue dans Multiplication Farm !
+
+Que choisissez vous ?
+
+1. Creer une partie
+2. Charger ma partie
+3. Afficher le classement des joueurs
+4. Quitter
